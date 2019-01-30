@@ -29,6 +29,7 @@
 		<Item Name="PWM.Measure.Digital.Settings.ctl" Type="VI" URL="../Types/PWM.Measure.Digital.Settings.ctl"/>
 		<Item Name="QuadratureEncoder.Measure.Digital.Measurement.ctl" Type="VI" URL="../Types/QuadratureEncoder.Measure.Digital.Measurement.ctl"/>
 		<Item Name="QuadratureEncoder.Measure.Digital.Settings.ctl" Type="VI" URL="../Types/QuadratureEncoder.Measure.Digital.Settings.ctl"/>
+		<Item Name="QuadratureEncoder.Measure.Digital.Settings.Direction.ctl" Type="VI" URL="../Types/QuadratureEncoder.Measure.Digital.Settings.Direction.ctl"/>
 		<Item Name="Sine.Generate.Convert.Settings.ctl" Type="VI" URL="../Types/Sine.Generate.Convert.Settings.ctl"/>
 		<Item Name="Sine.Generate.Settings.ctl" Type="VI" URL="../Types/Sine.Generate.Settings.ctl"/>
 		<Item Name="Static.Generate.Digital.Settings.ctl" Type="VI" URL="../Types/Static.Generate.Digital.Settings.ctl"/>
